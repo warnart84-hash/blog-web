@@ -92,7 +92,7 @@ export default {
         },
         {
           icon: 'fab fa-facebook',
-          type: 'Facebook',
+          type: 'gitee',
           content: '点击跳转FB主页',
           icCopy: false
         },
@@ -118,7 +118,7 @@ export default {
           icCopy: true
         },
         {
-          icon: 'fab fa-x-twitter',
+          icon: 'fab fa-twitter',
           title: 'X',
           type: 'wechat',
           content: '点击复制X账号',
