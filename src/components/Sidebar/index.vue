@@ -91,9 +91,9 @@ export default {
           icCopy: false
         },
         {
-          icon: 'fab fa-git-alt',
-          type: 'gitee',
-          content: '点击跳转GitEE主页',
+          icon: 'fab fa-facebook',
+          type: 'Facebook',
+          content: '点击跳转FB主页',
           icCopy: false
         },
         {
@@ -118,10 +118,10 @@ export default {
           icCopy: true
         },
         {
-          icon: 'fab fa-facebook',
-          title: 'Facebook',
+          icon: 'fab fa-x-twitter',
+          title: 'X',
           type: 'wechat',
-          content: '点击复制FB账号',
+          content: '点击复制X账号',
           icCopy: true
         }
       ],
