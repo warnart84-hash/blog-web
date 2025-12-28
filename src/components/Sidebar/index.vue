@@ -97,17 +97,17 @@ export default {
           icCopy: false
         },
         {
-          icon: 'fab fa-qq',
-          title: 'QQ',
+          icon: 'fab fa-telegram',
+          title: 'Telegram',
           type: 'qq',
-          content: '点击复制QQ号',
+          content: '点击复制TG号',
           icCopy: true
         },
         {
-          icon: 'fas fa-users',
-          title: 'QQ群',
+          icon: 'fab fa-instagram',
+          title: 'Instagram',
           type: 'qqGroup',
-          content: '点击复制QQ群号',
+          content: '点击复制Ins账号',
           icCopy: true
         },
         {
@@ -118,10 +118,10 @@ export default {
           icCopy: true
         },
         {
-          icon: 'fab fa-weixin',
-          title: '微信',
+          icon: 'fab fa-facebook',
+          title: 'Facebook',
           type: 'wechat',
-          content: '点击复制微信号',
+          content: '点击复制FB账号',
           icCopy: true
         }
       ],
